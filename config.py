@@ -9,7 +9,6 @@ from Program import iptrack, portscan, information
 # testx
 
 def print_banner():
-    print("VERSION: 0.0.1                        Made by Hikari.")
     print(Fore.RESET + "\n")
     print(Fore.GREEN + "Welcome to Hikari Console. Please pick an option below:\n")
         
